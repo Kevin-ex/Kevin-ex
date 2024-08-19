@@ -1,4 +1,17 @@
-## Hi there 👋
+<h1>👋Hey, I'm Kevin!</h1>
+
+<h2>Active Directory Home Lab:</h2>
+
+- <b>Creating Users and Groups</b>
+  - [Creating Users](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: www.linkedin.com/in/kevinromero7327
 
 <!--
 **Kevin-ex/Kevin-ex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
