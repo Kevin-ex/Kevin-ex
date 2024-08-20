@@ -3,7 +3,7 @@
 <h2>Active Directory Home Lab:</h2>
 
 - <b>Creating Users and Groups</b>
-  - [Creating Users]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blame/main/README.md))
+  - [Creating Users]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blame/main/README.md)])
 
 
 <h2> 🤳 Connect with me:</h2>
