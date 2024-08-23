@@ -3,7 +3,7 @@
 <h2>Active Directory Home Lab:</h2>
 
 - <b>Creating Users and Groups</b>
-  - [Renaming Server 2022](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blame/main/README.md)
+  - [Renaming Server 2022](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
