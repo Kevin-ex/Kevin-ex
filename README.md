@@ -4,7 +4,7 @@
 
 - <b>Creating Users and Groups</b>
   - [Renaming Server 2022](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blob/main/README.md)
-  - [Istalling Active Directory Domain Services](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blob/main/README.md)
+  - [Installing Active Directory Domain Services](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
