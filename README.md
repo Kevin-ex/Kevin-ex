@@ -5,6 +5,7 @@
 - <b>Creating Users and Groups</b>
   - [Renaming Server 2022](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blob/main/README.md)
   - [Installing Active Directory Domain Services](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blob/main/README.md)
+  - [Enabling the Recycle Bin](https://github.com/Kevin-ex/Active-Directory-Home-Lab-Enabling-the-Recycle-Bin/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
