@@ -6,6 +6,8 @@
   - [Renaming Server 2022](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blob/main/README.md)
   - [Installing Active Directory Domain Services](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blob/main/README.md)
   - [Enabling the Recycle Bin](https://github.com/Kevin-ex/Active-Directory-Home-Lab-Enabling-the-Recycle-Bin/blob/main/README.md)
+  - [Assigning Static IP Address to Server](https://github.com/Kevin-ex/Assigning-Static-IP-to-Windows-Server/blob/main/README.md)
+  - [Creating a Local User on Windows 10]
 
 
 <h2> 🤳 Connect with me:</h2>
