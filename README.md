@@ -8,6 +8,7 @@
   - [Enabling the Recycle Bin](https://github.com/Kevin-ex/Active-Directory-Home-Lab-Enabling-the-Recycle-Bin/blob/main/README.md)
   - [Assigning Static IP Address to Server](https://github.com/Kevin-ex/Assigning-Static-IP-to-Windows-Server/blob/main/README.md)
   - [Creating a Local User on Windows 10]
+  - [Enabling the Admin Account on Windows OS](https://github.com/Kevin-ex/Enabling-the-Admin-Account-on-a-Windows-OS/edit/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
