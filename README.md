@@ -7,7 +7,6 @@
   - [Installing Active Directory Domain Services](https://github.com/Kevin-ex/Active-Directory-Home-Lab/blob/main/README.md)
   - [Enabling the Recycle Bin](https://github.com/Kevin-ex/Active-Directory-Home-Lab-Enabling-the-Recycle-Bin/blob/main/README.md)
   - [Assigning Static IP Address to Server](https://github.com/Kevin-ex/Assigning-Static-IP-to-Windows-Server/blob/main/README.md)
-  - [Creating a Local User on Windows 10]
   - [Managing Local Users on Windows OS](https://github.com/Kevin-ex/Enabling-the-Admin-Account-on-a-Windows-OS/blob/main/README.md)
   - [Installing RSAT Tools on Windows OS](https://github.com/Kevin-ex/How-to-Install-RSAT-Tools/blob/main/README.md)
   - [Joining a PC to a Domain](https://github.com/Kevin-ex/Joining-a-PC-to-a-Domain)
