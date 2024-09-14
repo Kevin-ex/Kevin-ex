@@ -10,6 +10,7 @@
   - [Creating a Local User on Windows 10]
   - [Managing Local Users on Windows OS](https://github.com/Kevin-ex/Enabling-the-Admin-Account-on-a-Windows-OS/blob/main/README.md)
   - [Installing RSAT Tools on Windows OS](https://github.com/Kevin-ex/How-to-Install-RSAT-Tools/blob/main/README.md)
+  - [Joining a PC to a Domain](https://github.com/Kevin-ex/Joining-a-PC-to-a-Domain)
 
 
 <h2> 🤳 Connect with me:</h2>
