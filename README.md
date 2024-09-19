@@ -11,6 +11,7 @@
   - [Installing RSAT Tools on Windows OS](https://github.com/Kevin-ex/How-to-Install-RSAT-Tools/blob/main/README.md)
   - [Joining a PC to a Domain](https://github.com/Kevin-ex/Joining-a-PC-to-a-Domain)
   - [Renaming a Windows PC](https://github.com/Kevin-ex/Renaming-a-PC/blob/main/README.md)
+  - [Creating Organizational Units](https://github.com/Kevin-ex/Creating-Organizational-Units/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
